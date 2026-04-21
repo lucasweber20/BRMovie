@@ -1,0 +1,58 @@
+/* Columns */
+
+.col-icon-profile {
+  display: flex;
+  justify-content: center;
+  margin-top: 15vh;
+  margin-left: 2vw;
+}
+
+.col-icon-img {
+  height: 3.4vh;
+  margin-top: 17vh;
+  margin-left: -12vw;
+}
+
+.col-upd-info {
+  display: flex;
+  justify-content: center;
+  margin-top: 1vh;
+  margin-left: -2.3vw;
+}
+
+.col-form {
+  height: 15vh;
+  margin-left: 5vw;
+  max-width: 25vw;
+  box-shadow: 0 1px 6px 0px #888888;
+}
+
+/* Bootstrap class */
+
+.form-control {
+  width: 20vw;
+}
+
+/* Tags */
+
+html {
+  overflow-x: hidden;
+}
+
+.perfil-img {
+  border-radius: 100%;
+  margin-right: 5vw;
+  width: 130px;
+  height: 130px;
+}
+
+.btn-login {
+  background-color: #e6e7e8;
+  color: #000000;
+  margin-top: 2.5vh;
+  margin-bottom: 2vh;
+  margin-left: 2vw;
+  white-space: nowrap;
+  margin-left: 7vw;
+  border: none;
+}
