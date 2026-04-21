@@ -1,0 +1,54 @@
+/* Columns */
+
+.col-synopsis {
+	margin-left: 2vw;
+	margin-top: 2vh;
+}
+
+/* Tags */
+
+html {
+	overflow: hidden;
+}
+
+.tag-img {
+	width: 15vw;
+	height: 40vh;
+}
+
+.player {
+	width: 50vw;
+	height: 50vh;
+	margin-top: 10vh;
+	margin-left: 10vw;
+}
+
+.comments {
+	margin-left: 2vw;
+}
+
+.form-control {
+	width: 30vw;
+}
+
+.btn-comments {
+	background-color: #e6e7e8;
+	margin-left: 32.2vw;
+	margin-top: -7vh;
+}
+
+.btn-comments:hover {
+	background-color: #f2f4f5;
+}
+
+.btn-eps {
+	background-color: #e7e7e7;
+	color: black;
+	border-radius: 3px;
+	padding: 15px;
+	cursor: pointer;
+}
+
+.btn-eps:hover {
+	background-color: #e0e0e0;
+}
